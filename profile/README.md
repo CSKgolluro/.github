@@ -1,13 +1,16 @@
+![CSK](https://github.com/CSKgolluro/.github/blob/main/images/CSK_header.png) 
+
 ## Welcome to the CSK organisation!
 
 ### What is this organisation about?
 Within this organisation you will find repos related to the CSK of AS...
+Additional information will follow soon...
 
 ### Further Informations
 
-Regarding contribution guidelines please have a look into this file: https://github.com/CSKgolluro/.github/Contribution_Guideline.md
+Regarding our contribution guidelines please have a look into the [Contribution Guideline](https://github.com/CSKgolluro/.github/blob/main/Contribution_Guideline.md)
 
-Regarding code of conduct please have a look into this file: https://github.com/CSKgolluro/.github/Code_Of_Conduct.md
+Please also have a look into our [code of conduct](https://github.com/CSKgolluro/.github/blob/main/Code_Of_Conduct.md) for this project.
 
 <!--
 
