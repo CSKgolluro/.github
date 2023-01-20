@@ -1,15 +1,13 @@
 ## Welcome to the CSK organisation!
 
-## What is this organisation about?
+### What is this organisation about?
 Within this organisation you will find repos related to the CSK of AS...
 
-## Contribution guidelines
+### Further Informations
 
-Please have a look into this file: https://github.com/CSKgolluro/.github/Contribution_Guideline.md
+Regarding contribution guidelines please have a look into this file: https://github.com/CSKgolluro/.github/Contribution_Guideline.md
 
-## Code of conduct
-
-Please have a look into this file: https://github.com/CSKgolluro/.github/Code_Of_Conduct.md
+Regarding code of conduct please have a look into this file: https://github.com/CSKgolluro/.github/Code_Of_Conduct.md
 
 <!--
 
